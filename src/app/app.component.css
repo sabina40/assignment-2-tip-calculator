@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eef2f3;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2,
+p,
+label {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #4caf50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
